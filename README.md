@@ -1,4 +1,8 @@
 # nugu-grams
 
-# yarn
-# yarn dev
+## Projects initialization
+
+```
+yarn
+yarn dev
+```
