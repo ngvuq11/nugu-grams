@@ -1,5 +1,5 @@
 import { ChakraProvider } from "@chakra-ui/react";
-import Routers from "./Routers";
+import Routers from "./routers";
 function App({ children }) {
   return (
     <ChakraProvider>
